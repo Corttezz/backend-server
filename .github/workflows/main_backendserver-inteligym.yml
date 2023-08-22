@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'backendServer-inteligym'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DDB5E603F9244CD1A1A60DC0D1100B67 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3FB04A2691BB451EA06155A0EE47D5C6 }}
           package: .
